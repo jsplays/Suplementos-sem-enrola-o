@@ -1,0 +1,6 @@
+{
+  "name": "Suplementos sem enrolação",
+  "description": "Guia educativo de suplementos sem promessas milagrosas e sem empurrar produtos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
